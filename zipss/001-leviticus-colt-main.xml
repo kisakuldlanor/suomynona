@@ -2,6 +2,6 @@
 <plugin>
 <title>[COLOR ghostwhite][B]LEVITICUS[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=scrapehome</link>
-<thumbnail>https://github.com/kisakuldlanor/suomynona/blob/master/newart/leviticusthumb.png</thumbnail>
-<fanart>https://github.com/kisakuldlanor/suomynona/blob/master/newart/leviticusfanart.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/leviticusthumb.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/leviticusfanart.jpg</fanart>
 </plugin>
