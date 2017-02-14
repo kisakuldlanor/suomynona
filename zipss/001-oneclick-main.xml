@@ -13,6 +13,12 @@ plugin://script.module.wargames/?description&iconimage=C%3a%5cUsers%5cpc%5cAppDa
 </plugin>
 
 <plugin>
+<name>Cartoons</name>
+<link>plugin://script.module.wargames?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.md123movies%5cicon.png&mode=16&name=%5bB%5d%5bCOLOR%20white%5dtoons%5b%2fCOLOR%5d%5b%2fB%5d&url=https://raw.githubusercontent.com/sClarkeIsBack/StreamHub/master/Links/Kids/kidscorner.xml</link>
+<thumbnail>mkodi.co.uk/streamhub/icons/2/kids.png</thumbnail>
+</plugin>
+
+<plugin>
 <name>[COLOR ghostwhite][B]Romance Films[B][/COLOR][/B]</name>
 <link>plugin://script.module.wargames/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.wargames%5cicon.png&mode=19&name=ROMANCE%20MOVIES&url=http%3a%2f%2fafdah.org%2fromance_movies</link>
 <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Romantic-icon.png</thumbnail>
