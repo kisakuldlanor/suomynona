@@ -1,62 +1,7 @@
-<plugin>
-<name>[COLOR ghostwhite][B]MOVIES[/COLOR][/B]</name>
-<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
-<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Random-icon.png</thumbnail>
-</plugin>
 
 <plugin>
-<name>[COLOR ghostwhite][B]TV SHOWS[/COLOR][/B]</name>
-<link>plugin://plugin.video.wargames/?action=tvNavigator</link>
-<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Random-icon.png</thumbnail>
-</plugin>
-
-<plugin>
-<name>[COLOR ghostwhite][B]SEARCH[/COLOR][/B]</name>
-<link>plugin://plugin.video.wargames/?action=searchNavigator</link>
-<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Random-icon.png</thumbnail>
-</plugin>
-
-<plugin>
-<name>[COLOR ghostwhite][B]TOOL NAVIGATOR[/COLOR][/B]</name>
-<link>plugin://plugin.video.wargames/?action=toolNavigator</link>
-<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Random-icon.png</thumbnail>
-</plugin>
-
-<plugin>
-<name>[COLOR ghostwhite][B]OPEN SETTINS[/COLOR][/B]</name>
-<link>plugin://plugin.video.wargames/?action=openSettings</link>
-<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Random-icon.png</thumbnail>
-</plugin>
-
-
-
-
-
-
-
-<plugin>
-<name>[COLOR ghostwhite][B]ALTER SOURCES[/COLOR][/B]</name>
-<link>plugin://plugin.video.wargames/?action=alterSources</link>
-<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Random-icon.png</thumbnail>
-</plugin>
-
-<plugin>
-<name>[COLOR ghostwhite][B]CLEAR SOURCES[/COLOR][/B]</name>
-<link>plugin://plugin.video.wargames/?action=clearSources</link>
-<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Random-icon.png</thumbnail>
-</plugin>
-
-<plugin>
-<name>[COLOR ghostwhite][B]CLEAR CACHE[/COLOR][/B]</name>
-<link>plugin://plugin.video.wargames/?action=clearCache</link>
-<thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Random-icon.png</thumbnail>
-</plugin>
-
-
-
-
-
-<plugin>
-<title>test</title>
+<title>[COLOR ghostwhite][B]LEVITICUS[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=scrapehome</link>
+<thumbnail>https://github.com/kisakuldlanor/suomynona/blob/master/new-art/leviticusthumb.png</thumbnail>
+<fanart>https://github.com/kisakuldlanor/suomynona/blob/master/new-art/leviticusfanart.jpg</fanart>
 </plugin>
