@@ -9,7 +9,14 @@
 
 <dir>
 <name>[COLOR ghostwhite][B]COLT[/COLOR][/B]</name>
-<link>http://kisakul.com/kisakulymous_dir/003-moviesdirectory.xml</link>
+<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-colt-main.xml</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/deadphoenix.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/coltgunfanart.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR ghostwhite][B]KIDS[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-colt-main.xml</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/deadphoenix.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/coltgunfanart.jpg</fanart>
 </dir>
