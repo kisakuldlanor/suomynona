@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<plugin>
+<name>[COLOR ghostwhite][B]KIDS MOVIES - ONE CLICK HD!![/COLOR][/B]</name>
+<link>plugin://script.module.wargames/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.wargames%5cicon.png&mode=19&name=KIDS%20MOVIES&url=http%3a%2f%2fafdah.org%2ffamily_movies</link>
+<thumbnail>http://icons.iconarchive.com/icons/softskin/series-folder/128/Folder-TV-Lion-icon.png</thumbnail>
+</plugin>
+
+<dir>
+<name>[COLOR ghostwhite][B]KIDS MOVIES[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/colt-kidsmovies.xml</link>
+<thumbnail>http://icons.iconarchive.com/icons/softskin/series-folder/256/Folder-TV-Disney-icon.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>[COLOR ghostwhite][B]KIDS TV SHOWS[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/colt-kidstv.xml</link>
+<thumbnail>http://orig15.deviantart.net/849d/f/2015/119/b/9/nickelodeon_folder_icon_by_mikromike-d8rklbf.png</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>[COLOR ghostwhite][B]KIDS YOUTUBE[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/colt-kids-youtube.xml</link>
+<thumbnail>http://icons.iconarchive.com/icons/graphics-vibe/simple-rounded-social/256/youtube-icon.png</thumbnail>
+<fanart></fanart>
+</dir>
+
