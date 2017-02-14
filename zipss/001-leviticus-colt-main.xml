@@ -17,32 +17,34 @@
 <dir>
 <name>[COLOR ghostwhite][B]KIDS[/COLOR][/B]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-kidsdirectory.xml</link>
-<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/deadphoenix.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/coltgunfanart.jpg</fanart>
+<thumbnail>https://d2x3bkdslnxkuj.cloudfront.net/1220132_300.jpg</thumbnail>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.video.kmER.jpg</fanart>
 </dir>
 
 <dir>
 <name>[COLOR ghostwhite][B]ONE CLICK HD MOVIES[/COLOR][/B]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-oneclick-main.xml</link>
-<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/deadphoenix.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/coltgunfanart.jpg</fanart>
+<thumbnail>https://uptondaily.files.wordpress.com/2014/06/movies.jpg</thumbnail>
+<fanart>http://az616578.vo.msecnd.net/files/2016/07/17/636043783821747485-1200684422_POPCORN-POLL-QUESTION-IMAGE.jpg</fanart>
 </dir>
 
 <plugin>
 <name>[COLOR ghostwhite][B]DOCUMENTARIES[/COLOR][/B]</name>
 <link>plugin://script.module.wargames/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.wargames%5cicon.png&mode=35&name=DOCS&url=http%3a%2f%2fdocumentaryheaven.com%2fwatch-online%2f</link>
 <thumbnail>http://icons.iconarchive.com/icons/designbolts/free-movie-folder/256/Documentaries-icon.png</thumbnail>
+<fanart>http://tiledwallpaper.com/wallpapers/2013/6/107840372651b3909f05aa44.43089223.jpg</fanart>
 </plugin>
 
 <dir>
 <name>[COLOR ghostwhite][B]24-7 TV[/COLOR][/B]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-247-main.xml</link>
-<thumbnail>http://kisakul.com/kisakulymous_dir/2472.png</thumbnail>
-<fanart></fanart>
+<thumbnail>http://thyblackman.com/wp-content/uploads/2011/12/24-7.jpg</thumbnail>
+<fanart>http://orig04.deviantart.net/11b9/f/2009/055/b/b/24_7_by_sokka06.jpg</fanart>
 </dir>
 
 <plugin>
 <title>[COLOR ghostwhite][B]GIGGITY[/COLOR][/B]</title>
 <link>plugin://script.module.wargames/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.wargames%5cicon.png&mode=99&name=%5bCOLOR%20orange%5dG%5b%2fCOLOR%5d%5bCOLOR%20white%5denre%27s%5b%2fCOLOR%5d&url=http%3a%2f%2fwww.xvideos.com%2fa</link>
-<thumbnail>http://kisakul.com/kisakulymous_dir/giggity.png</thumbnail>
+<thumbnail>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/16711950_412198069117261_3303557260695062617_n.jpg?oh=b8f8a991d42f3f5dbae65e111ce2b105&oe=59082D11</thumbnail>
+<fanart>http://i.imgur.com/RmkUk.png</fanart>
 </plugin>
