@@ -21,12 +21,7 @@
 <fanart>https://superrepo.org/static/images/fanart/original/plugin.video.kmER.jpg</fanart>
 </dir>
 
-<dir>
-<name>[COLOR ghostwhite][B]ONE CLICK HD MOVIES[/COLOR][/B]</name>
-<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-oneclick-main.xml</link>
-<thumbnail>https://uptondaily.files.wordpress.com/2014/06/movies.jpg</thumbnail>
-<fanart>http://az616578.vo.msecnd.net/files/2016/07/17/636043783821747485-1200684422_POPCORN-POLL-QUESTION-IMAGE.jpg</fanart>
-</dir>
+
 
 <plugin>
 <name>[COLOR ghostwhite][B]DOCUMENTARIES[/COLOR][/B]</name>
@@ -42,12 +37,7 @@
 <fanart>http://orig04.deviantart.net/11b9/f/2009/055/b/b/24_7_by_sokka06.jpg</fanart>
 </dir>
 
-<plugin>
-<title>[COLOR ghostwhite][B]test[/COLOR][/B]</title>
-<link>plugin://script.module.wargames/?mode=49</link>
-<thumbnail>http://thyblackman.com/wp-content/uploads/2011/12/24-7.jpg</thumbnail>
-<fanart>http://orig04.deviantart.net/11b9/f/2009/055/b/b/24_7_by_sokka06.jpg</fanart>
-</plugin>
+
 
 
 <plugin>

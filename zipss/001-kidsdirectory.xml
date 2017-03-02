@@ -2,11 +2,7 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 
-<plugin>
-<name>[COLOR ghostwhite][B]KIDS MOVIES - ONE CLICK HD!![/COLOR][/B]</name>
-<link>plugin://script.module.wargames/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.wargames%5cicon.png&mode=19&name=KIDS%20MOVIES&url=http%3a%2f%2fafdah.org%2ffamily_movies</link>
-<thumbnail>http://icons.iconarchive.com/icons/softskin/series-folder/128/Folder-TV-Lion-icon.png</thumbnail>
-</plugin>
+
 
 <dir>
 <name>[COLOR ghostwhite][B]KIDS MOVIES[/COLOR][/B]</name>
