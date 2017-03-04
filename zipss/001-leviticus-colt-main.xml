@@ -46,3 +46,12 @@
 <thumbnail>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/16711950_412198069117261_3303557260695062617_n.jpg?oh=b8f8a991d42f3f5dbae65e111ce2b105&oe=59082D11</thumbnail>
 <fanart>http://i.imgur.com/RmkUk.png</fanart>
 </plugin>
+
+
+<dir>
+<name>[COLOR ghostwhite][B]test[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/hadjistyllis/myapp/master/TV%20country.m3u</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
