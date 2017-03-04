@@ -47,6 +47,12 @@
 <fanart>http://i.imgur.com/RmkUk.png</fanart>
 </plugin>
 
+<dir>
+<name>[COLOR ghostwhite][B]test usa live[/COLOR][/B]</name>
+<link>https://github.com/hadjistyllis/mytv/blob/master/USA%20%20server1.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
 
 <dir>
 <name>[COLOR ghostwhite][B]test[/COLOR][/B]</name>
