@@ -124,6 +124,8 @@
 <plugin>
 <title>[COLOR ghostwhite]Movies[/COLOR]</title>
 <link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/movies.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/movies.png</fanart>
 </plugin>
 
 <plugin>
