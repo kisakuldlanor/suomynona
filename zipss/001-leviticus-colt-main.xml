@@ -130,28 +130,30 @@
 <link>plugin://plugin.video.wargames/?action=mytvNavigator</link>
 </plugin>
 
+
+
+<plugin>
+<title>[COLOR ghostwhite][B]My Trakt TV Lists[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=tvUserlists</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]Search[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=searchNavigator</link>
+</plugin>
+
 <plugin>
 <title>[COLOR ghostwhite][B]Settings[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=openSettings</link>
 </plugin>
 
 <plugin>
-<title>[COLOR ghostwhite][B]trakt tv user list[/COLOR][/B]</title>
-<link>plugin://plugin.video.wargames/?action=tvUserlists</link>
-</plugin>
-
-<plugin>
-<title>[COLOR ghostwhite][B]search[/COLOR][/B]</title>
-<link>plugin://plugin.video.wargames/?action=searchNavigator</link>
-</plugin>
-
-<plugin>
-<title>[COLOR ghostwhite][B]clear sources[/COLOR][/B]</title>
+<title>[COLOR ghostwhite][B]Clear Sources[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=clearSources</link>
 </plugin>
 
 <plugin>
-<title>[COLOR ghostwhite][B]clear cache[/COLOR][/B]</title>
+<title>[COLOR ghostwhite][B]Clear Cache[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=clearCache</link>
 </plugin>
 
