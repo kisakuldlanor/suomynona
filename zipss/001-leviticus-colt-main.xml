@@ -108,6 +108,19 @@
 </plugin>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <plugin>
 <title>[COLOR ghostwhite][B]Movies[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=movieNavigator</link>
@@ -123,18 +136,40 @@
 <link>plugin://plugin.video.wargames/?action=mymovieNavigator</link>
 </plugin>
 
-
-
 <plugin>
 <title>[COLOR ghostwhite][B]My TV Shows (Trakt)[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=mytvNavigator</link>
 </plugin>
 
-
-
 <plugin>
 <title>[COLOR ghostwhite][B]My Trakt TV Lists[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=tvUserlists</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]Cartoons[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=phtoons.root</link>
+</plugin>
+
+<plugin>
+<name>[COLOR ghostwhite][B]DOCUMENTARIES[/COLOR][/B]</name>
+<link>plugin://script.module.wargames/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.wargames%5cicon.png&mode=35&name=DOCS&url=http%3a%2f%2fdocumentaryheaven.com%2fwatch-online%2f</link>
+<thumbnail>https://i1.ytimg.com/sh/XAeydoAo2jA/showposter.jpg?v=526e50e1</thumbnail>
+<fanart>http://tiledwallpaper.com/wallpapers/2013/6/107840372651b3909f05aa44.43089223.jpg</fanart>
+</plugin>
+
+<dir>
+<name>[COLOR ghostwhite][B]24-7 TV[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-247-main.xml</link>
+<thumbnail>http://thyblackman.com/wp-content/uploads/2011/12/24-7.jpg</thumbnail>
+<fanart>http://orig04.deviantart.net/11b9/f/2009/055/b/b/24_7_by_sokka06.jpg</fanart>
+</dir>
+
+<plugin>
+<title>[COLOR ghostwhite][B]GIGGITY[/COLOR][/B]</title>
+<link>plugin://script.module.wargames/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.wargames%5cicon.png&mode=99&name=%5bCOLOR%20orange%5dG%5b%2fCOLOR%5d%5bCOLOR%20white%5denre%27s%5b%2fCOLOR%5d&url=http%3a%2f%2fwww.xvideos.com%2fa</link>
+<thumbnail>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/16711950_412198069117261_3303557260695062617_n.jpg?oh=b8f8a991d42f3f5dbae65e111ce2b105&oe=59082D11</thumbnail>
+<fanart>http://i.imgur.com/RmkUk.png</fanart>
 </plugin>
 
 <plugin>
@@ -162,12 +197,5 @@
 
 
 
-<plugin>
-<title>[COLOR ghostwhite][B]Trailers[/COLOR][/B]</title>
-<link>plugin://plugin.video.wargames/?action=trailer</link>
-</plugin>
 
-<plugin>
-<title>[COLOR ghostwhite][B]Toons[/COLOR][/B]</title>
-<link>plugin://plugin.video.wargames/?action=phtoons.root</link>
-</plugin>
+
