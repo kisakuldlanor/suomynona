@@ -131,6 +131,11 @@
 <link>plugin://plugin.video.wargames/?action=tvNavigator</link>
 </plugin>
 
+<plugin>
+<title>[COLOR ghostwhite]Search[/COLOR]</title>
+<link>plugin://plugin.video.wargames/?action=searchNavigator</link>
+</plugin>
+
 <dir>
 <name>[COLOR ghostwhite]My Trakt[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/traktmenu.xml</link>
@@ -139,21 +144,21 @@
 </dir>
 
 <dir>
-<name>[COLOR ghostwhite]KIDS[/COLOR]</name>
+<name>[COLOR ghostwhite]Kids[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-kidsdirectory.xml</link>
 <thumbnail>https://d2x3bkdslnxkuj.cloudfront.net/1220132_300.jpg</thumbnail>
 <fanart>https://superrepo.org/static/images/fanart/original/plugin.video.kmER.jpg</fanart>
 </dir>
 
 <plugin>
-<name>[COLOR ghostwhite]Documentaries[/COLOR]</name>
+<name>[COLOR ghostwhite]Docs[/COLOR]</name>
 <link>plugin://script.module.wargames/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.wargames%5cicon.png&mode=35&name=DOCS&url=http%3a%2f%2fdocumentaryheaven.com%2fwatch-online%2f</link>
 <thumbnail>https://i1.ytimg.com/sh/XAeydoAo2jA/showposter.jpg?v=526e50e1</thumbnail>
 <fanart>http://tiledwallpaper.com/wallpapers/2013/6/107840372651b3909f05aa44.43089223.jpg</fanart>
 </plugin>
 
 <dir>
-<name>[COLOR ghostwhite]24-7 TV[/COLOR]</name>
+<name>[COLOR ghostwhite]24-7[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-247-main.xml</link>
 <thumbnail>http://thyblackman.com/wp-content/uploads/2011/12/24-7.jpg</thumbnail>
 <fanart>http://orig04.deviantart.net/11b9/f/2009/055/b/b/24_7_by_sokka06.jpg</fanart>
@@ -166,10 +171,7 @@
 <fanart>http://i.imgur.com/RmkUk.png</fanart>
 </plugin>
 
-<plugin>
-<title>[COLOR ghostwhite]Search[/COLOR]</title>
-<link>plugin://plugin.video.wargames/?action=searchNavigator</link>
-</plugin>
+
 
 <plugin>
 <title>[COLOR ghostwhite]Tools[/COLOR]</title>
