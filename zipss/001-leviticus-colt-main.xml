@@ -130,17 +130,23 @@
 
 <plugin>
 <title>[COLOR ghostwhite]TV Shows[/COLOR]</title>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/tvshows.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/tvshows.png</fanart>
 <link>plugin://plugin.video.wargames/?action=tvNavigator</link>
 </plugin>
 
 <plugin>
 <title>[COLOR ghostwhite]Search[/COLOR]</title>
 <link>plugin://plugin.video.wargames/?action=searchNavigator</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/search.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/search.png</fanart>
 </plugin>
 
 <dir>
 <name>[COLOR ghostwhite]My Trakt[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/traktmenu.xml</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/trakt.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/trakt.png</fanart>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
