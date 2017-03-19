@@ -47,3 +47,12 @@
 <fanart>http://i.imgur.com/RmkUk.png</fanart>
 </plugin>
 
+<plugin>
+<title>[COLOR ghostwhite][B]Movies[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]TV Shows[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=tvNavigator</link>
+</plugin>
