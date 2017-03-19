@@ -157,3 +157,17 @@
 <link>plugin://plugin.video.wargames/?action=clearCache</link>
 </plugin>
 
+
+
+
+
+
+<plugin>
+<title>[COLOR ghostwhite][B]Seasons[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=seasons</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]Toons[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=phtoons.root</link>
+</plugin>
