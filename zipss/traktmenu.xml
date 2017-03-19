@@ -1,0 +1,14 @@
+<plugin>
+<title>[COLOR ghostwhite][B]My Lists (Trakt)[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=tvUserlists</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]My Movies (Trakt)[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=mymovieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]My TV Shows (Trakt)[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=mytvNavigator</link>
+</plugin>
