@@ -48,6 +48,67 @@
 </plugin>
 
 <plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=movieNavigator</link>
+</plugin>
+
+
+<plugin>
 <title>[COLOR ghostwhite][B]Movies[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=movieNavigator</link>
 </plugin>
@@ -75,7 +136,22 @@
 </plugin>
 
 <plugin>
-<title>[COLOR ghostwhite][B]tv user list[/COLOR][/B]</title>
+<title>[COLOR ghostwhite][B]trakt tv user list[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=tvUserlists</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]search[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=searchNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]clear sources[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=clearSources</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]clear cache[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=clearCache</link>
 </plugin>
 
