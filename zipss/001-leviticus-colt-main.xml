@@ -56,3 +56,23 @@
 <title>[COLOR ghostwhite][B]TV Shows[/COLOR][/B]</title>
 <link>plugin://plugin.video.wargames/?action=tvNavigator</link>
 </plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]test1 trakt movies[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=mymovieNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]test2 trakt movies[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=mymovieliteNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]test1 trakt tv[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=mytvNavigator</link>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite][B]test2 trakt tv[/COLOR][/B]</title>
+<link>plugin://plugin.video.wargames/?action=tvliteNavigator</link>
+</plugin>
