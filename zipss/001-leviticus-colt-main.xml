@@ -184,6 +184,8 @@
 <plugin>
 <title>[COLOR ghostwhite]Tools[/COLOR]</title>
 <link>plugin://plugin.video.wargames/?action=toolNavigator</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/tools.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/tools.png</fanart>
 </plugin>
 
 
