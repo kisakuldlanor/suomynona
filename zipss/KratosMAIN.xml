@@ -44,6 +44,13 @@
 </plugin>
 
 <dir>
+<name>[COLOR ghostwhite]Old School Easter/Jesus/Bible Films[/COLOR]</name>
+<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-oldschooljesus.xml</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/55/83/64/558364ce15c00c3a9c996abf634f9f94.jpg</thumbnail>
+<fanart>http://www.bestmoviesbyfarr.com/static-assets/images/articles/background/2014/03/2-94ryc4.jpg</fanart>
+</dir>
+
+<dir>
 <name>[COLOR ghostwhite]Colt[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-colt-main.xml</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/deadphoenix.jpg</thumbnail>
