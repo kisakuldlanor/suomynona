@@ -37,16 +37,23 @@
 </dir>
 
 <dir>
-<name>[COLOR ghostwhite]Old School Easter/Jesus/Bible Films[/COLOR]</name>
+<name>[COLOR ghostwhite]Vintage Easter Films[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-oldschooljesus.xml</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/736x/55/83/64/558364ce15c00c3a9c996abf634f9f94.jpg</thumbnail>
 <fanart>http://www.bestmoviesbyfarr.com/static-assets/images/articles/background/2014/03/2-94ryc4.jpg</fanart>
 </dir>
 
 <dir>
-<name>[COLOR ghostwhite]Colt[/COLOR]</name>
+<name>[COLOR ghostwhite]Colt Requests[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-colt-main.xml</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/deadphoenix.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
+</dir>
+
+<dir>
+<name>[COLOR ghostwhite]24-7[/COLOR]</name>
+<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-247-main.xml</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/247.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
 </dir>
 
@@ -57,15 +64,6 @@
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
 </plugin>
 
-
-
-<dir>
-<name>[COLOR ghostwhite]24-7[/COLOR]</name>
-<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-247-main.xml</link>
-<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/247.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
-</dir>
-
 <plugin>
 <title>[COLOR ghostwhite]Giggity[/COLOR]</title>
 <link>plugin://script.module.kratos/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.kratos%5cicon.png&mode=99&name=%5bCOLOR%20orange%5dG%5b%2fCOLOR%5d%5bCOLOR%20white%5denre%27s%5b%2fCOLOR%5d&url=http%3a%2f%2fwww.xvideos.com%2fa</link>
@@ -73,23 +71,9 @@
 <fanart>http://i.imgur.com/RmkUk.png</fanart>
 </plugin>
 
-
-
 <plugin>
 <title>[COLOR ghostwhite]Tools[/COLOR]</title>
 <link>plugin://plugin.video.kratos/?action=toolNavigator</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/tools.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
 </plugin>
-
-
-
-
-
-
-
-
-
-
-
-
