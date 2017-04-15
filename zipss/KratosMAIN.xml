@@ -89,3 +89,11 @@
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/tools.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
 </plugin>
+
+
+<dir>
+<name>[COLOR ghostwhite]test[/COLOR]</name>
+<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/testforsam.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
