@@ -20,17 +20,29 @@
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
 </plugin>
 
-<dir>
-<name>[COLOR ghostwhite]My Trakt[/COLOR]</name>
-<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/KratosTRAKT.xml</link>
-<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/trakt.png</thumbnail>
+<plugin>
+<title>[COLOR ghostwhite]My TV Show Lists (Trakt)[/COLOR]</title>
+<link>plugin://plugin.video.kratos/?action=tvUserlists</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/userlists.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite]My Movies (Trakt)[/COLOR]</title>
+<link>plugin://plugin.video.kratos/?action=mymovieNavigator</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/mymovies.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLOR ghostwhite]My TV Shows (Trakt)[/COLOR]</title>
+<link>plugin://plugin.video.kratos/?action=mytvNavigator</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/mytvshows.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
+</plugin>
 
 <dir>
-<name>[COLOR ghostwhite]Kids[/COLOR]</name>
+<name>[COLOR ghostwhite]Kids TV & Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-kidsdirectory.xml</link>
 <thumbnail>https://d2x3bkdslnxkuj.cloudfront.net/1220132_300.jpg</thumbnail>
 <fanart>https://superrepo.org/static/images/fanart/original/plugin.video.kmER.jpg</fanart>
@@ -51,7 +63,7 @@
 </dir>
 
 <dir>
-<name>[COLOR ghostwhite]24-7[/COLOR]</name>
+<name>[COLOR ghostwhite]24-7 TV Shows[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-247-main.xml</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/247.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
