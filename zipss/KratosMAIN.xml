@@ -14,13 +14,6 @@
 </plugin>
 
 <plugin>
-<title>[COLOR ghostwhite]Search[/COLOR]</title>
-<link>plugin://plugin.video.kratos/?action=searchNavigator</link>
-<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/search.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
-</plugin>
-
-<plugin>
 <title>[COLOR ghostwhite]My TV Show Lists (Trakt)[/COLOR]</title>
 <link>plugin://plugin.video.kratos/?action=tvUserlists</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/userlists.png</thumbnail>
@@ -28,9 +21,9 @@
 </plugin>
 
 <plugin>
-<title>[COLOR ghostwhite]My TV Shows (Trakt)[/COLOR]</title>
-<link>plugin://plugin.video.kratos/?action=mytvNavigator</link>
-<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/mytvshows.png</thumbnail>
+<title>[COLOR ghostwhite]Search[/COLOR]</title>
+<link>plugin://plugin.video.kratos/?action=searchNavigator</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/search.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
 </plugin>
 
@@ -83,10 +76,3 @@
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
 </plugin>
 
-
-<dir>
-<name>[COLOR ghostwhite]test[/COLOR]</name>
-<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/testforsam.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
