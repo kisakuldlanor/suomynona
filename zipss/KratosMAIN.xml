@@ -69,10 +69,10 @@
 <fanart>http://i.imgur.com/RmkUk.png</fanart>
 </plugin>
 
-<dir>
-<name>[COLOR ghostwhite]Tools[/COLOR]</name>
-<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/kratostools.xml</link>
+<plugin>
+<title>[COLOR ghostwhite]Tools[/COLOR]</title>
+<link>plugin://plugin.video.kratos/?action=toolNavigator</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/tools.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
-</dir>
+</plugin>
 
