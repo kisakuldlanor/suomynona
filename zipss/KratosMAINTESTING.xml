@@ -63,7 +63,7 @@
 
 <plugin>
 <title>[COLOR ghostwhite]Giggity[/COLOR]</title>
-<link>plugin://plugin.video.kratos/?action=giggity</link>
+<link>plugin://plugin.video.kratos/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.kratos%5cicon.png&mode=99&name=%5bCOLOR%20orange%5dG%5b%2fCOLOR%5d%5bCOLOR%20white%5denre%27s%5b%2fCOLOR%5d&url=http%3a%2f%2fwww.xvideos.com%2fa</link>
 <thumbnail>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/16711950_412198069117261_3303557260695062617_n.jpg?oh=b8f8a991d42f3f5dbae65e111ce2b105&oe=59082D11</thumbnail>
 <fanart>http://i.imgur.com/RmkUk.png</fanart>
 </plugin>
