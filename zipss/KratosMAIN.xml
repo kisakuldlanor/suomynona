@@ -20,28 +20,21 @@
 </plugin>
 
 <plugin>
-<title>[COLOR ghostwhite]My TV Show Lists (Trakt)[/COLOR]</title>
+<title>[COLOR ghostwhite]My TV Shows (Trakt)[/COLOR]</title>
 <link>plugin://plugin.video.kratos/?action=tvUserlists</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/userlists.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
 </plugin>
 
 <dir>
-<name>[COLOR ghostwhite]Kids TV & Movies[/COLOR]</name>
+<name>[COLOR ghostwhite]Kids[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-kidsdirectory.xml</link>
 <thumbnail>https://d2x3bkdslnxkuj.cloudfront.net/1220132_300.jpg</thumbnail>
 <fanart>https://superrepo.org/static/images/fanart/original/plugin.video.kmER.jpg</fanart>
 </dir>
 
 <dir>
-<name>[COLOR ghostwhite]Vintage Easter Films[/COLOR]</name>
-<link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-oldschooljesus.xml</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/55/83/64/558364ce15c00c3a9c996abf634f9f94.jpg</thumbnail>
-<fanart>http://www.bestmoviesbyfarr.com/static-assets/images/articles/background/2014/03/2-94ryc4.jpg</fanart>
-</dir>
-
-<dir>
-<name>[COLOR ghostwhite]Colt Requests[/COLOR]</name>
+<name>[COLOR ghostwhite]Colt 45 Requests[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-colt-main.xml</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/deadphoenix.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
@@ -53,13 +46,6 @@
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/247.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
 </dir>
-
-<plugin>
-<name>[COLOR ghostwhite]Docs[/COLOR]</name>
-<link>plugin://script.module.kratos/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.kratos%5cicon.png&mode=35&name=DOCS&url=http%3a%2f%2fdocumentaryheaven.com%2fwatch-online%2f</link>
-<thumbnail>https://i1.ytimg.com/sh/XAeydoAo2jA/showposter.jpg?v=526e50e1</thumbnail>
-<fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
-</plugin>
 
 <plugin>
 <title>[COLOR ghostwhite]Giggity[/COLOR]</title>
