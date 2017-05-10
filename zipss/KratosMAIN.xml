@@ -20,7 +20,7 @@
 </plugin>
 
 <plugin>
-<title>[COLOR ghostwhite]My TV Shows (Trakt)[/COLOR]</title>
+<title>[COLOR ghostwhite]TV Show User Lists (Trakt)[/COLOR]</title>
 <link>plugin://plugin.video.kratos/?action=tvUserlists</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/userlists.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
