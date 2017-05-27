@@ -29,13 +29,13 @@
 <dir>
 <name>[COLOR ghostwhite]Kids TV & Movies[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-kidsdirectory.xml</link>
-<thumbnail>https://d2x3bkdslnxkuj.cloudfront.net/1220132_300.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kids.png</thumbnail>
 <fanart>https://superrepo.org/static/images/fanart/original/plugin.video.kmER.jpg</fanart>
 </dir>
 
 
 <dir>
-<name>[COLOR ghostwhite]Colt Requests[/COLOR]</name>
+<name>[COLOR ghostwhite]User Requests[/COLOR]</name>
 <link>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/zipss/001-colt-main.xml</link>
 <thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/deadphoenix.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/kratosfanart.jpg</fanart>
@@ -50,8 +50,8 @@
 
 <plugin>
 <title>[COLOR ghostwhite]Giggity[/COLOR]</title>
-<link>plugin://script.module.kratos/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.kratos%5cicon.png&mode=99&name=%5bCOLOR%20orange%5dG%5b%2fCOLOR%5d%5bCOLOR%20white%5denre%27s%5b%2fCOLOR%5d&url=http%3a%2f%2fwww.xvideos.com%2fa</link>
-<thumbnail>https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/16711950_412198069117261_3303557260695062617_n.jpg?oh=b8f8a991d42f3f5dbae65e111ce2b105&oe=59082D11</thumbnail>
+<link>plugin://script.module.giggity/?description&iconimage=C%3a%5cUsers%5cpc%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.module.kratos%5cicon.png&mode=99&name=%5bCOLOR%20orange%5dG%5b%2fCOLOR%5d%5bCOLOR%20white%5denre%27s%5b%2fCOLOR%5d&url=http%3a%2f%2fwww.xvideos.com%2fa</link>
+<thumbnail>https://raw.githubusercontent.com/kisakuldlanor/suomynona/master/newart/giggity.png</thumbnail>
 <fanart>http://i.imgur.com/RmkUk.png</fanart>
 </plugin>
 
